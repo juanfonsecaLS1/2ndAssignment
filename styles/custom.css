@@ -1,0 +1,14 @@
+<style>
+.shadow {
+
+    /*Edit or add new attributes, change size, color, etc */
+    width: 45em;
+    box-shadow: 8px 8px 10px #444;
+    border: 1px solid silver;
+
+    /*For positioning in a jupyter notebook*/
+    margin-top: 2em;
+    position: relative;
+    top: -25px
+}
+</style>
