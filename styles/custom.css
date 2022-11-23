@@ -1,7 +1,11 @@
 <style>
+ol, .ol {font-size: 12px;
+    font-family: "Segoe UI";
+    font-size: 1em;
+    color: #000000;}
 h1, .h1 {
     font-family: "Segoe UI";
-    font-size: 4em !important;
+    font-size: 5em !important;
     color: #2a7bbd;}
 h2, .h2 {
     font-family: "Segoe UI";
@@ -17,16 +21,16 @@ h4, .h4 {
     color: #0a3c66;}
 h5, .h5 {
     font-family: "Segoe UI";
-    font-size: 1.3em !important;
+    font-size: 1.4em !important;
     color: #053358;}
 h6, .h6 {
     font-family: "Segoe UI";
-    font-size: 1em !important;
+    font-size: 1.2em;
     color: #053358;}
 p, .p {font-size: 12px;
     font-family: "Segoe UI";
     font-size: 1em;
-    color: #000000;}
+    color: #252525;}
 li, .li {font-size: 12px;
     font-family: "Segoe UI";
     font-size: 1em;
